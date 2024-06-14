@@ -3,11 +3,11 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Methodology & Data Source](#methodology-&-data-source)
+- [Methodology & Data Source](#methodology-and-data-source)
 - [Tools](#tools)
-- [Data Cleaning/Preparation](#data-cleaning/preparation)
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-(eda))
-- [Key Results/Findings](#key-results/findings)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+- [Key Results and Findings](#key-results-and-findings)
 - [Recommendations](#recommendations)
 - [Data Limitations](#data-limitations)
 - [References](#references)
@@ -19,7 +19,7 @@ This data analysis project aims to provide insights into the sales performance o
 ![ES Tableau Dashboard](https://github.com/GogoHarry/Sterling-E-Commerce/assets/82883963/56f06b27-0475-4e5a-a281-bcd1c006989f)
 
 
-### Methodology & Data Source
+### Methodology and Data Source
 To gain rich insights from Sterling's vast online sales data, we employed three key data analysis techniques:
 
 - Customer Segmentation: First, we analyzed customers based on shared characteristics like demographics, purchase behavior, and preferred product categories. This allows us to understand distinct customer segments and tailor our analysis based on their specific needs.
@@ -36,7 +36,7 @@ We meticulously cleaned and prepared the data in Microsoft Excel, resulting in a
   - [Download here](https://microsoft.com)
 - Tableau - Data analysis and creating reports
 
-### Data Cleaning/Preparation
+### Data Cleaning and Preparation
 
 In the initial data preparation phase, we performed the following tasks:
 1. Data loading and inspection.
@@ -89,7 +89,7 @@ EDA involved exploring the sales data to answer key questions, such as:
  
 
 
-### Key Results/Findings
+### Key Results and Findings
 1. Gender distribution is almost equal: There's a near-even split between male and female customers (52% male, 48% female), aligning with the targeted market.
 
 2. Mobiles & Tablets dominate sales and revenue: This category accounts for the most orders (29%) and the highest overall revenue (56%). Sterling should consider investigating profit margins for this category compared to others.
