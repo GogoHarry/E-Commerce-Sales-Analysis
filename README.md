@@ -126,5 +126,5 @@ Despite these limitations, our analysis uncovers clear patterns and trends in cu
 
 ### References
 1. Fundamentals of Data Visualization  by Claus O. Wilke
-2. [Stack Overflow](https://stack.com)
+2. [Stack Overflow](https://stackoverflow.com)
 
