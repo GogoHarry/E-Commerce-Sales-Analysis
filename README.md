@@ -1,4 +1,4 @@
-# Sterling E-Commerce Sales Analysis
+# E-Commerce Sales Analysis Using Tableau
 
 ## Table of Contents
 
