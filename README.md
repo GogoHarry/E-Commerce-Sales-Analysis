@@ -16,7 +16,8 @@
 
 This data analysis project aims to provide insights into the sales performance of an e-commerce company over the past year. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
-![ES Tableau Dashboard](https://github.com/GogoHarry/Sterling-E-Commerce/assets/82883963/56f06b27-0475-4e5a-a281-bcd1c006989f)
+![ecommerce](https://github.com/GogoHarry/E-Commerce-Sales-Analysis/assets/82883963/d8334056-dab6-4780-a972-24cc3a925dc9)
+
 
 
 ### Methodology and Data Source
