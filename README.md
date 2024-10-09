@@ -16,8 +16,7 @@
 
 This data analysis project aims to provide insights into the sales performance of an e-commerce company over the past year. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
-![ecommerce](https://github.com/GogoHarry/E-Commerce-Sales-Analysis/assets/82883963/d8334056-dab6-4780-a972-24cc3a925dc9)
-
+![ES Tableau Dashboard](https://github.com/user-attachments/assets/e7b4f6bb-130f-4282-b33b-adad5543cc70)
 
 
 ### Methodology and Data Source
